@@ -61,6 +61,10 @@
     .banner-content{
         text-align: center;
     }
+    .banner-content h1{
+        font-size: 35px;
+    }
+
 
     .gallery .g-image {
         width: 90%;
