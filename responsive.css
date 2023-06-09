@@ -61,11 +61,15 @@
     .banner-content{
         text-align: center;
     }
-    .banner-content h1{
-        font-size: 25px;
+   .banner-content h1:nth-child(1) {
+       font-size:45px
     }
-
-
+     .banner-content h1:nth-child(2) {
+       font-size:40px;
+    }
+    .banner-content p {
+               font-size:15px;
+    }
     .gallery .g-image {
         width: 90%;
     }
